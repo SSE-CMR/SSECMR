@@ -1,0 +1,6 @@
+pandas
+pycryptodome
+tqdm
+numpy
+bitarray
+Cython
